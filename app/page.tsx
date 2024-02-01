@@ -93,6 +93,15 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <a
+        href="https://github.com/EanYang7/palworld" // Replace with your GitHub repository URL
+        className="absolute bottom-0 left-0 mb-4 mr-4 text-white hover:text-green-300 transition duration-300 ease-in-out"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="View source on GitHub"
+      >
+        GitHub代码库
+      </a>
     </main>
   );
 }
